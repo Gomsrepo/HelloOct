@@ -6,6 +6,6 @@ package uk.company;
  **/
 public class jenkinsproj {
     public void method() {
-        System.out.println("My method");
+        System.out.println("My method1");
     }
 }
